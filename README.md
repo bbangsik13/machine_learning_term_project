@@ -1,5 +1,5 @@
 # machine_learning_term_project
-링크는 사용자를 추가해야 함(bbangsik13@gmail.com으로 문의)
+링크는 사용자를 추가해야 함(bbangsik13@gmail.com으로 문의)<br>
 fashion mnist data의 일부만을 사용(train 5000, test 5000)
 
 ## 일치율 86.7%(하이퍼 파라미터 처리해야함, TOP과 그 밖으로 나눠서 1차 분류)
